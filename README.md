@@ -6,7 +6,7 @@ I'm a 18-year-old enthusiast from Greece, deeply passionate about delving into t
 
 Languages & Markup: `HTML` `CSS` `Python` `Bash`
 
-Frameworks & Libraries: `Django` `Flask` `Jinja2`
+Frameworks & Libraries: `Django` `Flask` `Bootstrap` `Jinja2`
 
 Databases: `SQLite3` `PostgreSQL`
 
